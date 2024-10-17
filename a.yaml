@@ -1,0 +1,7 @@
+config:
+  data:
+    merged:
+      - a
+      - b
+      - c
+    overwritten: "this clobbers a list"
